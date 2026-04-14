@@ -41,7 +41,7 @@ export default function Home() {
       <section id="about" className="py-16 px-6">
         <h2 className="text-3xl font-bold text-center mb-10">About Us</h2>
         <p className="max-w-3xl mx-auto text-center text-gray-600">
-          Hotel Sunrise is a small and cozy hotel offering comfortable rooms and friendly service. Perfect for travelers looking for affordability and convenience.
+          FOMI VIEW HOTEL is a small and cozy hotel offering comfortable rooms and friendly service. Perfect for travelers looking for affordability and convenience.
         </p>
       </section>
 
