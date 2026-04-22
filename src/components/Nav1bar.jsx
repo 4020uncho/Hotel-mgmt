@@ -10,6 +10,7 @@ const Nav1bar = () => {
           <a href="#rooms" className="hover:text-blue-500">Rooms</a>
           <a href="#about" className="hover:text-blue-500">About</a>
           <a href="#contact" className="hover:text-blue-500">Contact</a>
+          <a href='/gallery' className="hover:text-blue-500">Gallery</a>
         </div>
       </nav>
     </div>
